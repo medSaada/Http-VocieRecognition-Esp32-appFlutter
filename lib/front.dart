@@ -37,7 +37,7 @@ class Front extends StatelessWidget {
               height: 514.h,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage('images/PNG LOGO LASTVER.png'),
+                    image: AssetImage('images/dophinotech_logo.png'),
                     fit: BoxFit.cover),
               ),
             ),
